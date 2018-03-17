@@ -1,0 +1,7 @@
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb

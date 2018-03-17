@@ -1,0 +1,14 @@
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
