@@ -289,6 +289,7 @@
             this.txtIdCategoria.Name = "txtIdCategoria";
             this.txtIdCategoria.Size = new System.Drawing.Size(100, 20);
             this.txtIdCategoria.TabIndex = 3;
+            this.txtIdCategoria.TextChanged += new System.EventHandler(this.txtIdCategoria_TextChanged);
             // 
             // label4
             // 

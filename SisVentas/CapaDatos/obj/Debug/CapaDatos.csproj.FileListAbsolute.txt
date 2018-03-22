@@ -1,5 +1,5 @@
 C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
 C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
-C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
 C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache

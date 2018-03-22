@@ -11,3 +11,9 @@ C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaPresentacion\bin\Deb
 C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCategoria_Articulo.resources
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+C:\Users\Soul\Desktop\Proyectos de ingenieria\SisVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources

@@ -90,7 +90,7 @@ namespace CapaPresentacion
         {
             this.dataListado.DataSource = NCategoria.Mostrar();
             this.OcularColumnas();
-            lblTotal.Text = "Total de Registro" + Convert.ToString (dataListado.Rows.Count);
+            lblTotal.Text = "Total de Registro" + Convert.ToString(dataListado.Rows.Count);
         }
 
         //Metodo BuscarNombre
@@ -276,6 +276,11 @@ namespace CapaPresentacion
               {
                   MessageBox.Show(ex.Message + ex.StackTrace);
               }
+          }
+
+          private void txtIdCategoria_TextChanged(object sender, EventArgs e)
+          {
+
           }
     }
 }

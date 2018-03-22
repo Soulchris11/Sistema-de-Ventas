@@ -29,7 +29,7 @@ namespace CapaNegocio
             Obj.Idcategoria = idcategoria;
             Obj.Nombre = nombre;
             Obj.Descripcion = descripcion;
-            return Obj.Insertar(Obj);
+            return Obj.Editar(Obj);
 
         }
         //Metodo Editar que llama al metodo Eliminar de la clase DCategoria
